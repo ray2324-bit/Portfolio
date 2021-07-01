@@ -8,7 +8,7 @@
 
 To access this project on your local files, you can clone it using these steps.
 Open your terminal.
-Use this command to clone `$ https://github.com/ray2324-bit/Akan-Names.git
+Use this command to clone `$ https://github.com/ray2324-bit/portfolio.git
 This will clone the repository into your local folder
 ## Known Bugs
 There are no known bugs at this moment.
@@ -16,7 +16,7 @@ There are no known bugs at this moment.
 1. HTML
 3. CSS
 ### Live Site
-View [live]https://github.com/ray2324-bit/Akan-Names.git
+View [live]https://github.com/ray2324-bit/portfolio.git
 ### License
 This project is under the [MIT](https://choosealicense.com/licenses/mit/) licence
 Copyright (c) 2021 **Ray Rawlings**
